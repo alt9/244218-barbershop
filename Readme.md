@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Сергей Мосин](https://up.htmlacademy.ru/htmlcss/14/user/244218).
+* Наставник: [Вадим Федоров] (https://up.htmlacademy.ru/htmlcss/14/user/224110)
 
 ---
 
