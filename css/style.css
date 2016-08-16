@@ -1,19 +1,19 @@
 body {
-	font-family: ptsans narrowbold;
+	font-family: ptsans narrowbold, Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	font-weight: normal;
 	color: #000000;
 	line-height: 24px;
 }
 h1 {
-	font-family: ptsans narrowbold;
+	font-family: ptsans narrowbold, Helvetica, Arial, sans-serif;
 	font-size: 30px;
 	font-weight: normal;
 	color: #000000;
 	line-height: 42px;
 }
 h2 {
-	font-family: ptsans narrowbold;
+	font-family: ptsans narrowbold, Helvetica, Arial, sans-serif;
 	font-size: 24px;
 	font-weight: normal;
 	color: #000000;
